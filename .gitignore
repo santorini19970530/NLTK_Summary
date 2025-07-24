@@ -26,3 +26,6 @@ logs/
 # Ignore build directories
 build/
 dist/
+
+# Ignore NLTK.pdf file
+NLTK.pdf
